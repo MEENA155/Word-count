@@ -23,6 +23,10 @@ Now give print().
 Step 6:
 End the program.
 ## PROGRAM:
+'''
+Developed by Name:S.Meena,Ref No:21500895
+'''
+```
 with open("file1.txt,"r") as fp:
     A=fp.read()
     coount=0
@@ -31,7 +35,7 @@ with open("file1.txt,"r") as fp:
         count+=1
 print("count",W) 
 print("count",count) 
-
+```
 ### OUTPUT:
 ![Screenshot (105)](https://user-images.githubusercontent.com/94677128/153768375-7b687b70-5ec0-4c34-9592-bd93f309629a.png)
 
