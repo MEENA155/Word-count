@@ -29,7 +29,7 @@ Developed by Name:S.Meena,Ref No:21500895
 ```
 with open("file1.txt,"r") as fp:
     A=fp.read()
-    coount=0
+    count=0
     W=A.split()
     for i in W:
         count+=1
